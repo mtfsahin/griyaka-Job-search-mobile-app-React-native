@@ -4,9 +4,52 @@ In this project, we created an employment platform. To summarize, job candidates
 
 It has been developed using react native for both ios and android platforms. The data is pulled from the website via the REST API.
 
+<table>
+  <tr>
+    <td>App screenshots</td>
+  </tr>
+  <tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/0.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/1.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/3.jpg" width="200" height="400"/></td>
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/4.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/5.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/6.jpg" width="200" height="400"/></td>
+  </tr>
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/7.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/8.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/9.jpg" width="200" height="400"/></td>
+          </tr>
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/10.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/11.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/12.jpg" width="200" height="400"/></td>
+          </tr>
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/13.jpg " width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/14.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/22222.jpg" width="200" height="400"/></td>
+          </tr>
 
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/17.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/18.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/19.jpg" width="200" height="400"/></td>
+  </tr>
 
+  <tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/20.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/21.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/22.jpg" width="200" height="400"/></td>
+  </tr>
 
+<tr>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/23.jpg" width="200" height="400"/></td>
+<td><img src="https://github.com/mtfsahin/griyaka/blob/main/screenshots/24.jpg" width="200" height="400"/></td>
+  </tr>
+ </table>
 
 Lİbrary
 
